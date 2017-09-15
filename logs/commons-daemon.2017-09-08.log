@@ -1,0 +1,36 @@
+[2017-09-08 08:34:10] [info]  [ 2608] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-08 08:34:11] [info]  [ 2608] Running 'Tomcat8' Service...
+[2017-09-08 08:34:12] [info]  [ 3896] Starting service...
+[2017-09-08 08:34:26] [info]  [ 3896] Service started in 12819 ms.
+[2017-09-08 10:23:09] [info]  [ 8328] Console SHUTDOWN event signaled
+[2017-09-08 10:23:09] [info]  [ 8328] Stopping service...
+[2017-09-08 10:23:11] [info]  [ 8328] Service stop thread completed.
+[2017-09-08 10:23:11] [info]  [ 2608] Run service finished.
+[2017-09-08 10:23:12] [info]  [ 2608] Commons Daemon procrun finished
+[2017-09-08 10:24:12] [info]  [ 3128] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-08 10:24:13] [info]  [ 3128] Running 'Tomcat8' Service...
+[2017-09-08 10:24:13] [info]  [ 3500] Starting service...
+[2017-09-08 10:24:13] [error] [ 3500] Failed creating java C:\Program Files\Java\jre1.8.0_45\bin\server\jvm.dll
+[2017-09-08 10:24:13] [error] [ 3500] The system cannot find the path specified.
+[2017-09-08 10:24:13] [error] [ 3500] ServiceStart returned 1
+[2017-09-08 10:24:13] [error] [ 3500] The system cannot find the path specified.
+[2017-09-08 10:24:17] [info]  [ 3128] Run service finished.
+[2017-09-08 10:24:18] [info]  [ 3128] Commons Daemon procrun finished
+[2017-09-08 11:40:37] [info]  [ 1928] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-08 11:40:38] [info]  [ 1928] Running 'Tomcat8' Service...
+[2017-09-08 11:40:39] [info]  [ 3808] Starting service...
+[2017-09-08 11:40:39] [error] [ 3808] Failed creating java C:\Program Files\Java\jre1.8.0_45\bin\server\jvm.dll
+[2017-09-08 11:40:39] [error] [ 3808] The system cannot find the path specified.
+[2017-09-08 11:40:39] [error] [ 3808] ServiceStart returned 1
+[2017-09-08 11:40:39] [error] [ 3808] The system cannot find the path specified.
+[2017-09-08 11:40:43] [info]  [ 1928] Run service finished.
+[2017-09-08 11:40:43] [info]  [ 1928] Commons Daemon procrun finished
+[2017-09-08 11:47:29] [info]  [ 3020] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-08 11:47:29] [info]  [ 3020] Running 'Tomcat8' Service...
+[2017-09-08 11:47:29] [info]  [ 3264] Starting service...
+[2017-09-08 11:47:29] [error] [ 3264] Failed creating java C:\Program Files\Java\jre1.8.0_45\bin\server\jvm.dll
+[2017-09-08 11:47:29] [error] [ 3264] The system cannot find the path specified.
+[2017-09-08 11:47:30] [error] [ 3264] ServiceStart returned 1
+[2017-09-08 11:47:30] [error] [ 3264] The system cannot find the path specified.
+[2017-09-08 11:48:39] [info]  [ 3020] Run service finished.
+[2017-09-08 11:48:39] [info]  [ 3020] Commons Daemon procrun finished

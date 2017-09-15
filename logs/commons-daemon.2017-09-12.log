@@ -1,0 +1,6 @@
+[2017-09-12 10:45:03] [info]  [ 3080] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2017-09-12 10:45:03] [info]  [ 3080] Running 'Tomcat8' Service...
+[2017-09-12 10:45:04] [info]  [ 3852] Starting service...
+[2017-09-12 10:45:20] [info]  [ 3852] Service started in 14611 ms.
+[2017-09-12 11:40:05] [info]  [ 3080] Run service finished.
+[2017-09-12 11:40:05] [info]  [ 3080] Commons Daemon procrun finished
